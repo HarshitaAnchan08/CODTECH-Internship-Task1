@@ -12,6 +12,7 @@ This is simple interactive quiz website build using html, css and javascript. He
 This project was helpful in enhancing my knowledge.
 
 Below are the few Screenshots of my project-
-https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/d649480da3abf611836c9bdf03b1bdc5e6d6f175/screenshot1.PNG
-
+Screenshot 1 : https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/d649480da3abf611836c9bdf03b1bdc5e6d6f175/screenshot1.PNG
+Screenshot 2 : https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/72752dc480f47d978cc65a595c66d59e76771e9f/screenshot2.PNG
+Screenshot 3 : 
 
