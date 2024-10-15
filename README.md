@@ -12,8 +12,8 @@ This is simple interactive quiz website build using html, css and javascript. He
 This project was helpful in enhancing my knowledge.
 
 Below are the few Screenshots of my project-
-Screenshot 1 : https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/d649480da3abf611836c9bdf03b1bdc5e6d6f175/screenshot1.PNG
-Screenshot 2 : https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/72752dc480f47d978cc65a595c66d59e76771e9f/screenshot2.PNG
-Screenshot 3 : https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/702fd9ebf412381b0f531675363a537816d0ad91/screenshot3.PNG
-Screenshot 4 : https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/e1522f1e495c825a9d56bb29d9a13711fd433af7/screenshot4.PNG
+Screenshot 1 (this screenshot is about homepage of project or first Quiz question) : https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/d649480da3abf611836c9bdf03b1bdc5e6d6f175/screenshot1.PNG
+Screenshot 2 (in this screenshot, the right option is highlighted with green color) : https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/72752dc480f47d978cc65a595c66d59e76771e9f/screenshot2.PNG
+Screenshot 3 (in this screenshot, the wrong option is highlighted with red color): https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/702fd9ebf412381b0f531675363a537816d0ad91/screenshot3.PNG
+Screenshot 4 (in this screenshot, user can see score obtained in a Quiz): https://github.com/HarshitaAnchan08/CODTECH-Internship-Task1/blob/e1522f1e495c825a9d56bb29d9a13711fd433af7/screenshot4.PNG
 
